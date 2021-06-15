@@ -1,0 +1,1 @@
+Place the config in to directory of your liking and change the scrip accordingly 
